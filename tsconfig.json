@@ -5,7 +5,8 @@
         "outDir": "dist/js",
         "strict": true,
         "esModuleInterop": true,
-        "forceConsistentCasingInFileNames": true
+        "forceConsistentCasingInFileNames": true,
+        "noEmitOnError": true,
     },
     "include": [
         "app/**/*"
