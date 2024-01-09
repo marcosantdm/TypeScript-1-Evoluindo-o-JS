@@ -1,11 +1,7 @@
 {
     "compilerOptions": {
         "target": "ES6",
-        "module": "commonjs",
         "outDir": "dist/js",
-        "strict": true,
-        "esModuleInterop": true,
-        "forceConsistentCasingInFileNames": true,
         "noEmitOnError": true,
     },
     "include": [
